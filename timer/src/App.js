@@ -6,7 +6,6 @@ function App() {
     <div className="App">
       <div className="App-body">
         <Timer />
-        <h1>thgghghg</h1>
       </div>
     </div>
   );
